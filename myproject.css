@@ -1,4 +1,15 @@
-p{
-    color:black;
-    text-align-last: center;
-}
+h1 {
+    color: blue;
+    text-align: center;
+  }
+  h2 {
+    color: green;
+    font-style: italic;
+    text-align: center;
+  }
+  p {
+    font-family: sans-serif;
+  }
+  ol {
+    line-height: 40px;
+  }
