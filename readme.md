@@ -34,13 +34,13 @@
 
 ## Technologies Used
 
-{-HTML
+-HTML
 -CSS
--JS.}
+-JS
 
 ## Support and contact details
 
-{for contact najmaamin10@gmail.com.}
+for contact najmaamin10@gmail.com.
 
 ### License
 
