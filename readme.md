@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # {MY PORTFOLIO WEBSITE}
 #### {Brief description of application}, {Date of current version}
 #### By **{List of contributors}**
+=======
+# my website
+## Author 
+- najma amin
+>>>>>>> c179b1b8eed75b561cabbdaa6c7d7ee0a2a295df
 ## Description
 {This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
 ## Setup/Installation Requirements
