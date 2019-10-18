@@ -13,6 +13,7 @@ This is a detailed description of your application, including its purpose and us
 ## Setup/Installation Requirements
 
 - Open terminal/command prompt.
+- git clone https://github.com/najma-amin/my-project.git
 - cd myportfolio.
 - to use atom to open code type atom . or code . for visual studio.
 
