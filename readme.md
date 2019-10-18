@@ -8,7 +8,8 @@
 
 ## Description
 
-This is a detailed description of your application, including its purpose and usage. Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have.
+Learning HTML and CSS is a lot more challenging than it used to be.
+Responsive web design adds more layers of complexity to design and develop websites.”
 
 ## Setup/Installation Requirements
 
@@ -17,9 +18,9 @@ This is a detailed description of your application, including its purpose and us
 - cd moringaschoolprojects
 - to use atom to open code type atom . or code . for visual studio.
 
-## Known Bugs
+## Known Bug
 
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+none
 
 ## Technologies Used
 
