@@ -14,7 +14,7 @@ This is a detailed description of your application, including its purpose and us
 
 - Open terminal/command prompt.
 - git clone https://github.com/najma-amin/my-project.git
-- cd myportfolio.
+- cd moringaschoolprojects
 - to use atom to open code type atom . or code . for visual studio.
 
 ## Known Bugs
