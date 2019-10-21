@@ -8,8 +8,7 @@
 
 ## Description
 
-Learning HTML and CSS is a lot more challenging than it used to be.
-Responsive web design adds more layers of complexity to design and develop websites.”
+this my portfolio showcasing , checkout my work below and feel free to get in touch if you want to owrk with me
 
 ## Setup/Installation Requirements
 
